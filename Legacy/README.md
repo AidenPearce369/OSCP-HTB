@@ -1,4 +1,4 @@
-# HACK THE BOx - LEGACY WRITEUP
+# HACK THE BOX - LEGACY WRITEUP
 
 Lets enumerate the box with nmap
 
