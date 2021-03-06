@@ -1,0 +1,8 @@
+root
+asterisk
+admin
+asteriskuser
+cyrus
+fanis
+spamfilter
+mysql
